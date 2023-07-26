@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopify-landing-page/static/css/main.0a9ef14f.css",
+    "main.js": "/shopify-landing-page/static/js/main.40f7ab87.js",
+    "static/js/787.eac01a18.chunk.js": "/shopify-landing-page/static/js/787.eac01a18.chunk.js",
+    "static/media/builder-img.svg": "/shopify-landing-page/static/media/builder-img.c16d2341d14a53921fad2d0ea87c5ed0.svg",
+    "static/media/card-img.svg": "/shopify-landing-page/static/media/card-img.e361764176b41ec3059cc96845b93bf6.svg",
+    "static/media/build-brand.svg": "/shopify-landing-page/static/media/build-brand.045264a347cfd9877af6e17163f77721.svg",
+    "static/media/hero-img.png": "/shopify-landing-page/static/media/hero-img.e7371cbcdc9f742d4002.png",
+    "static/media/sell-block-2.png": "/shopify-landing-page/static/media/sell-block-2.39802bbaefdc39fb2f5d.png",
+    "static/media/build-brand-img-2.png": "/shopify-landing-page/static/media/build-brand-img-2.03457205d92966d4310b.png",
+    "static/media/sell-block.png": "/shopify-landing-page/static/media/sell-block.49007837c8e43c9f8560.png",
+    "static/media/next-icon.svg": "/shopify-landing-page/static/media/next-icon.8296f280e4e789896cc2a55585022e89.svg",
+    "static/media/logo.svg": "/shopify-landing-page/static/media/logo.f5123bd0065996cd50ec3c74ab3f6823.svg",
+    "static/media/learning-option-img.svg": "/shopify-landing-page/static/media/learning-option-img.80c1be46e2be7e3cab4799dff8db1e50.svg",
+    "index.html": "/shopify-landing-page/index.html",
+    "static/media/menu.svg": "/shopify-landing-page/static/media/menu.363808047db6b4ce5dd10ebfe6eb5e11.svg",
+    "main.0a9ef14f.css.map": "/shopify-landing-page/static/css/main.0a9ef14f.css.map",
+    "main.40f7ab87.js.map": "/shopify-landing-page/static/js/main.40f7ab87.js.map",
+    "787.eac01a18.chunk.js.map": "/shopify-landing-page/static/js/787.eac01a18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a9ef14f.css",
+    "static/js/main.40f7ab87.js"
+  ]
+}
